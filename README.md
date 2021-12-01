@@ -1,9 +1,9 @@
-🙋🏼‍♀️ Ciao! I'm @cowoakvalley, but you can call me Karo (as in Karoline)
-🇩🇰 I'm a brave Dane who ventured into the world of software!
-👩🏼‍💻 Currently learning front-end development from @shecodes.io
-🌈 But curious on all aspects of coding
-💬 Figured it'd be good combination with my degree in Communications
-📬 You can reach me on kdegelund@gmail.com
+🙋🏼‍♀️ Ciao! I'm @cowoakvalley, but you can call me Karo (as in Karoline) <br>
+🇩🇰 I'm a brave Dane who ventured into the world of software! <br>
+👩🏼‍💻 Currently learning front-end development from @shecodes.io <br>
+🌈 But curious on all aspects of coding <br>
+💬 Figured it'd be good combination with my degree in Communications <br>
+📬 You can reach me on kdegelund@gmail.com <br>
 
 <!---
 cowoakvalley/cowoakvalley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
